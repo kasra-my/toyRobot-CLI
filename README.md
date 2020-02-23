@@ -1,3 +1,6 @@
+
+## How to start the game: Please run "php index.php" command on the Command Line Interface (CLI)
+
 # toyRobot-CLI
 
 Toy Robot Simulator
